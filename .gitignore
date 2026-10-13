@@ -1,0 +1,39 @@
+# Compiled binaries & objects
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Build directories
+build/
+bin/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+CTestTestfile.cmake
+
+# Logs, scratch, & debug
+*.log
+*.tmp
+*.pdb
+*.ilk
+scratch/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
